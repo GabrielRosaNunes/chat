@@ -21,3 +21,8 @@ Após a instalação das tecnologias citadas, é necessário efetuar o passo a p
   - Entrar na pasta chat-node em outro terminal e executar o comando node index.js
   - Entrar na pasta chat-vue em outro terminal e executar o comando npm install
   - Após o final da instalação das bibliotecas do passo anterior, execute o comando npm run dev.
+  
+# Imagens do Projeto
+![Login](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/autenticacao.png)
+![Login](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/cadastro.png)
+![Login](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/chat.png)
