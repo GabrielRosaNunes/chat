@@ -74,7 +74,7 @@ class UsersController extends Controller {
         }
         return $request;
     }
-
+    
     public function validateEmail($email)
     {
         return strpos($email,'@') > -1 && substr_count($email,'@') == 1;

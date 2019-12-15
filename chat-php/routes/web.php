@@ -10,7 +10,8 @@
 | and give it the Closure to call when that URI is requested.
 |
 */
-
-$router->get('/','UsersController@index');
+//rota de validação do usuário
 $router->post('/login','UsersController@show');
+
+//rota de inclusão do usuário
 $router->post('/','UsersController@store');
