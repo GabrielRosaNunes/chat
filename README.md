@@ -23,6 +23,9 @@ Após a instalação das tecnologias citadas, é necessário efetuar o passo a p
   - Após o final da instalação das bibliotecas do passo anterior, execute o comando npm run dev.
   
 # Imagens do Projeto
+### - Login Usuário
 ![Login](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/autenticacao.png)
-![Login](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/cadastro.png)
-![Login](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/chat.png)
+### - Cadastro de Usuário
+![Cadastro](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/cadastro.png)
+### - Chat
+![Chat](https://raw.githubusercontent.com/GabrielRosaNunes/chat/master/chat.png)
